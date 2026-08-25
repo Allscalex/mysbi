@@ -23,6 +23,10 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
 
+    
+    <label for="psw-repeat"><b>Forget Password</b></label>
+    <input type="password" placeholder="Forget Password" name="psw-repeat" id="psw-repeat" required>
+
     <hr>
 
     <p>By giving above details, you agree to our <a href="#">Terms & Privacy</a>.</p>
