@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>MYSBI Registration App AnsibleDockerDeployment-Vinayak</title>
+    <title>MYSBI Registration App AnsibleDockerDeployment-Vinayak-v1</title>
 </head>
 <body>
 
