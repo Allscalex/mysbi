@@ -9,7 +9,7 @@
 
 <form action="action_page.jsp" method="post">
   <div class="container">
-    <h1>Welcome to MySBI website developed by Allscale.tech !!</h1>
+    <h1>Welcome to MySBI website developed by Allscale.tech Learners !!</h1>
     <h1>Provide below information to create a bank account !!</h1>
     <p>Please fill in this form</p>
     <hr>
