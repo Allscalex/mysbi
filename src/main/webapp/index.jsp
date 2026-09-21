@@ -16,7 +16,10 @@
 
 
     <label for="psw-repeat"><b>Name</b></label>
-    <input type="password" placeholder="Name" name="name" id="Name" required>
+    <input type="name" placeholder="Name" name="name" id="Name" required>
+
+    <label for="psw-repeat"><b>LName</b></label>
+    <input type="lname" placeholder="LName" name="lname" id="LName" required>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
