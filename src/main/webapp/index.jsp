@@ -9,7 +9,7 @@
 
 <form action="action_page.jsp" method="post">
   <div class="container">
-    <h1>Welcome to MySBI website developed by Allscale.tech !!</h1>
+    <h1>Welcome to MySBI  !!</h1>
     <h1>Provide below information to create a bank account !!</h1>
     <p>Please fill in this form</p>
     <hr>
@@ -34,7 +34,8 @@
     <label for="psw-repeat"><b>Forget Password</b></label>
     <input type="password" placeholder="Forget Password" name="psw-repeat" id="psw-repeat" required>
 
-
+    <label for="PANCARD"><b>PANCARD</b></label>
+    <input type="pancard" placeholder="pancard" name="pancard" id="pancard" required>
     <hr>
 
     <p>By giving above details, you agree to our <a href="#">Terms & Privacy</a>.</p>
