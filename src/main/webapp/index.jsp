@@ -9,7 +9,7 @@
 
 <form action="action_page.jsp" method="post">
   <div class="container">
-    <h1>Welcome to MySBI k8s Deployment !!</h1>
+    <h1>Welcome to SBI-Yuno !!</h1>
     <h1>Provide below information to create a bank account !!</h1>
     <p>Please fill in this form</p>
     <hr>
